@@ -1,0 +1,23 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmunoa86/contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmunoa86/contacts/issues"
+  },
+  "homepage": "https://github.com/wmunoa86/contacts#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
